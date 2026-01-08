@@ -1446,7 +1446,7 @@ export default function Home() {
               viewport={{ once: true }}
               className="pt-8 border-t border-slate-800 text-center text-slate-400 text-sm"
             >
-              <p>© 2024 Sumanth Clicks. All rights reserved. Capturing moments, creating memories.</p>
+              <p>© 2026 Sumanth Clicks. All rights reserved. Capturing moments, creating memories.</p>
             </motion.div>
           </div>
         </footer>
