@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   keywords: ["Thupakula", "Next.js", "TypeScript", "Tailwind CSS", "shadcn/ui", "AI development", "React"],
   authors: [{ name: "Thupakula" }],
   icons: {
-    icon: "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    icon: "#",
   },
 };
 
